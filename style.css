@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e9ece7;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    text-align: justify;
+    line-height: 21px;
+    box-shadow: 0 0px 25px rgba(166, 0, 0, 0.5);
+}
+
+h1 {
+    text-align: center;
+}
+
+.know-button {
+    background-color: rgb(17, 0, 0);
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.launchpad-button {
+    background-color: rgb(59, 180, 255);
+    color: rgb(19, 1, 1);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.containerTimeline{
+    padding: 10px;
+}
